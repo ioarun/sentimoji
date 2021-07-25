@@ -22,10 +22,6 @@ This is a webapp that lets user enter a text and get back feedback in the form o
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<p align="center">
-<img src="images/sentimoji.gif" alt="drawing" width="500"/>
-</p>
-
 ## Dependencies
 
 * Python3
@@ -65,7 +61,12 @@ Once you run the above command, you'll see the terminal/cmd showing the followin
 
 As is displayed in the message, type in `http://127.0.0.1:5000/` in your browser. 
 
-That's it! You'll see a web app same as shown below. Just type in any positive or negative remark like `this movie is really bad` or `i think this is gonna be great!` and see the magic unfold!
+That's it! You'll see a web app same as shown below. Just type in any positive or negative remark like `this movie is really bad` or `i think this is gonna be great!` and see the magic unfold! 😉😂
+
+<p align="center">
+<img src="images/sentimoji.gif" alt="drawing" width="500"/>
+</p>
+
 
 ## License
 
