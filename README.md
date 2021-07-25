@@ -11,6 +11,8 @@
 
 This is a webapp that lets user enter a text and get back feedback in the form of emoji. The app show only two kinds of emotion - sad, when the text is negative and happy, when the text is positive!
 
+## Software stack
+
 <p float="left">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
@@ -21,7 +23,9 @@ This is a webapp that lets user enter a text and get back feedback in the form o
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-![Image](images/sentimoji.gif)
+<center>
+<img src="images/sentimoji.gif" alt="drawing" width="500"/>
+</center>
 
 ## Dependencies
 
