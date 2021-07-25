@@ -9,6 +9,8 @@
 
 # Welcome to SentiMoji!
 
+![Image](./sentimoji.gif)
+
 This is a webapp that lets user enter a text and get back feedback in the form of emoji. The app show only two kinds of emotion - sad, when the text is negative and happy, when the text is positive!
 
 ![Image](images/sentimoji.gif)
