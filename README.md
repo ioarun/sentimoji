@@ -52,6 +52,20 @@ $ pip install -r requirements.txt
 ```
 $ python main.py
 ```
+Once you run the above command, you'll see the terminal/cmd showing the following message
+
+```
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+```
+
+As is displayed in the message, type in `http://127.0.0.1:5000/` in your browser. 
+
+That's it! You'll see a web app same as shown below. Just type in any positive or negative remark like `this movie is really bad` or `i think this is gonna be great!` and see the magic unfold!
 
 ## License
 
