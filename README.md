@@ -23,9 +23,9 @@ This is a webapp that lets user enter a text and get back feedback in the form o
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<center>
+<p align="center">
 <img src="images/sentimoji.gif" alt="drawing" width="500"/>
-</center>
+</p>
 
 ## Dependencies
 
